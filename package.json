@@ -1,0 +1,14 @@
+{
+  "name": "coverage2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "coverage": "c8 node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "c8": "^8.0.0"
+  }
+}
